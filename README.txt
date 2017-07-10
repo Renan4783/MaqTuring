@@ -1,12 +1,13 @@
-Autor: Renan de Oliveira
+Autor: Renan de Oliveira 
+LinkedIn: https://www.linkedin.com/in/renan-de-oliveira-5bb44272/
 
-Aqui explico como é o funcionamento de como foram configuradas cada uma das maquinas, seguindo as instruções a seguir.
+Aqui explico como Ã© o funcionamento de como foram configuradas cada uma das maquinas, seguindo as instruÃ§Ãµes a seguir.
 
-Instrução 1:
-	O arquivo path.txt indica a maquina a ser executada, não altere o nome do arquivo
-	ou o programa não irá encontrar as configurações das maquinas!
+InstruÃ§Ã£o 1:
+	O arquivo path.txt indica a maquina a ser executada, nÃ£o altere o nome do arquivo
+	ou o programa nÃ£o irÃ¡ encontrar as configuraÃ§Ãµes das maquinas!
 
-Instrução 2:
+InstruÃ§Ã£o 2:
 	Maquinas novas podem ser criadas seguindo o formato:
 	----------------------------------------------------------------------------------
 	estados
@@ -14,7 +15,7 @@ Instrução 2:
 	alfabeto
 	...
 	transicoes
-	... (sempre em ordem, transições do primeiro estado, segundo e assim por diante)
+	... (sempre em ordem, transiÃ§Ãµes do primeiro estado, segundo e assim por diante)
 	aceitacao
 	...
 	rejeicao
@@ -22,12 +23,12 @@ Instrução 2:
 	cadeia
 	...
 	-----------------------------------------------------------------------------------
-	Cada uma das palavras (estados, alfabeto, transicoes, etc) são palavras reservadas
-	usadas pela MT, que leem as configurações necessárias para o funcionamento.
+	Cada uma das palavras (estados, alfabeto, transicoes, etc) sÃ£o palavras reservadas
+	usadas pela MT, que leem as configuraÃ§Ãµes necessÃ¡rias para o funcionamento.
 
-Instrução 3:
-	Salve as novas maquinas no formato .txt, com qualquer nome que quiser! (Não se esqueça
+InstruÃ§Ã£o 3:
+	Salve as novas maquinas no formato .txt, com qualquer nome que quiser! (NÃ£o se esqueÃ§a
 	de alterar o caminho no path.txt!)
 
-Instrução 4:
-	Há exemplos de 3 maquinas dentro do algoritmo que ajudam a explicar como é a configuração.
+InstruÃ§Ã£o 4:
+	HÃ¡ exemplos de 3 maquinas dentro do algoritmo que ajudam a explicar como Ã© a configuraÃ§Ã£o.
